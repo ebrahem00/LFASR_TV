@@ -1,4 +1,5 @@
 # LFASR_TV
+![NETWORK ARCHITECTURE](./Figures/NET.png)
 Tri-Visualization Guided Light Field Angular Super-Resolution with Deep Spatial Refinement:
 
 Requirement: PyTorch 2.0.1, torchvision 0.15.2. The code is tested with python=3.10.12, cuda=11.7. Matlab for training/test data generation and performance evaluation.
